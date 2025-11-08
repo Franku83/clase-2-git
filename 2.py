@@ -1,6 +1,6 @@
 def main():
-    print("Hello, World! xd".upper())fasdfadsfasf
-    print("This is a test string.".upper())adsfadsfadfadfad  
+    prdasdkasjkdlajsdknt("Hello, Wordasdjalskdjaskljdaskld! xd".upper())
+    prindaskdjaslkdjasldt("This is a test string.".upper()) 
     
-if __name__ == "__main__":
-    main()adsfadsfadfasdfsd
+if __namedaskdaskljdakldj__ == "__main__":
+    main()
