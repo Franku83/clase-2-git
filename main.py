@@ -1,2 +1,2 @@
-x = "hola mundo"
-print(x).upper()
+x = hola mundo 
+print(xz).upper())
